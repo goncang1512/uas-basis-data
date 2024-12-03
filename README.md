@@ -1,6 +1,6 @@
 # Tugas Pemrograman Web - Resep Nusantara
 
-[GitHub Repository](https://github.com/goncang1512/TugasPemwebKulinerNusantara)
+[GitHub Repository Project](https://github.com/goncang1512/TugasPemwebKulinerNusantara)
 
 ## Anggota Kelompok
 
